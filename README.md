@@ -8,4 +8,4 @@ The [data](https://archive.ics.uci.edu/ml/datasets/Physicochemical+Properties+of
 
 The Jupyter notebook has all the required code. All the images/visulization is stored in the Images folder. I have also uploaded the .csv file in the Data folder. 
 
-For blog visit my portfolio page. 
+For blog visit my [portfolio.](https://karanteckwani.com/portfolio/protein-tertiary-structure-prediction-using-its-physicochemical-properties/) 
